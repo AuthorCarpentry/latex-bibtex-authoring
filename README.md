@@ -1,22 +1,18 @@
-Author Carpentry : Lesson Template
+Author Carpentry : Authoring LaTeX paper with BibTeX bibliography
 =======
 
-A description of the lesson goes here.  If you're reading this on the github
-repo, you see the rendered lesson at:
+*Content Contributors: Gail Clement*
 
-http://authorcarpentry.github.io/lesson-template-mkpage
-
-This template is inspired by the software and data carpentry templates, 
-but it employs the mkpage site generation tool as an alternative
-to Jekyll.  Full usage information is at the bottom of the page.
-
-**Content Contributors: Name **
-
-
-**Lesson Maintainers: Name **
-
+*Lesson Maintainers: Gail Clement*
 
 **Lesson status: In Development**
+
+##Learning Objectives:
+- Open a template for a LaTex formatted paper and replace gibberish with
+  relevant content from your own work
+- Upload a BibTeX citation list and use it to add references to the paper
+- Add a figure to the paper 
+- Compile the paper to cleanly a typeset PDF
 
 ## Topics:
 
@@ -73,7 +69,6 @@ Add Content
 * Add individual .md files with lesson topics in repository with leading numbers like: 00-topic1.md;
 01-topic2.md
 * Edit nav.md to set links in the navigation bar
-* Edit CONTRIBUTORS as appropriate
 
 View Lesson
 
