@@ -3,7 +3,7 @@ Author Carpentry : Authoring LaTeX paper with BibTeX bibliography
 
 *Content Contributors: Gail Clement*
 
-*Lesson Maintainers: Gail Clement*
+*Lesson Maintainers: None*
 
 **Lesson status: In Development**
 
