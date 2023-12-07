@@ -5,7 +5,7 @@ Author Carpentry : Authoring LaTeX paper with BibTeX bibliography
 
 *Lesson Maintainers: None*
 
-**Lesson status: In Development**
+**Lesson status: Future**
 
 ## What you will learn:
 - Open a template for a LaTex formatted paper and replace gibberish with
