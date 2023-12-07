@@ -19,6 +19,20 @@ agrees to abide by our [code of conduct](CONDUCT.md).
 
 ## Editing Lesson Content
 
+You'll need to install the Carpentries workbench packages with 
+
+```
+# register the repositories for The Carpentries and CRAN
+options(repos = c(
+  carpentries = "https://carpentries.r-universe.dev/",
+  CRAN = "https://cran.rstudio.com/"
+))
+
+# Install the template packages to your R library
+install.packages(c("sandpaper", "varnish", "pegboard", "tinkr"))
+```
+
+
 All lesson content is written in markdown (.md) files.  We use [mkpage](https://github.com/caltechlibrary/mkpage) 
 to render lesson content into .html pages.  Install mkpage from the Caltech
 Library repository at https://github.com/caltechlibrary/mkpage.  There is
